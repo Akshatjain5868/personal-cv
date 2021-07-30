@@ -134,6 +134,21 @@ hr
   padding-right: 30px;
 }
 
+.html
+{
+  width: 30%;
+  float: right;
+  padding-left: 30px;
+}
+
+.javascript
+{
+  width: 10%;
+  height: 10%;
+  float: left;
+  padding-right: 30px;
+}
+
 .copyright
 {
   color: #EAF6F6;
